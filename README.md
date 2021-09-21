@@ -1,6 +1,5 @@
 # Project-02
 
-
 World University Ranking Analysis: Using Pyspark, Spark Session, Spark SQL, Hive Context
 
 CONTENT 
@@ -15,5 +14,4 @@ CONTENT
 >Importing Hive Context and performing a query on Hive table.
 >Using if condition checking whether the national_rank is 1 or not.
 >Partitioning the column and displaying partitioned data. 
->Using the collect_set function [project 2.txt](https://github.com/GAGANGURU17/Project-02/files/7204286/project.2.txt)
-to display distinct values in a column.
+>Using the collect_set function to display distinct values in a column.
