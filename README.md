@@ -1,8 +1,6 @@
 # Project-02
 
 World University Ranking Analysis: Using Pyspark, Spark Session, Spark SQL, Hive Context
-
-CONTENT 
     
 >Building Spark Session.
 >Loading the data from CSV to Data Frame.
