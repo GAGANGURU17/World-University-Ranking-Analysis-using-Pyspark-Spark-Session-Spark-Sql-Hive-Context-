@@ -23,10 +23,6 @@
 * Did partitioning and bucketing with the help of Spark_SQL.
 * Connected Hive To Spark.
 
-## Getting Started
-#### importing some packages
-#### Creating Dataframe in spark
-#### Creting Temporary Table in Spark
 
 ## Contributors
 * Gagan N
