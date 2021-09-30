@@ -49,5 +49,6 @@
 ## References
 https://sparkbyexamples.com/spark/different-ways-to-create-a-spark-dataframe/
 https://sparkbyexamples.com/spark/spark-sqlcontext-explained-with-examples/
-https://spark.apache.org/docs/latest/sql-programming-guide.html/
+https://spark.apache.org/docs/latest/sql-programming-guide.html
+
 https://spark.apache.org/docs/latest/sql-data-sources-hive-tables.html
